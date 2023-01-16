@@ -1,0 +1,42 @@
+.container{
+
+    margin: 30px auto;
+    width: 50%;
+    border-radius: 10px;
+    padding: 20px;
+}  
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+p{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(228, 248, 233);
+    border-radius: 10px;
+}
+
+.area{
+    width: 70%;
+    height: 100px;
+    border-radius: 0;
+    margin-left: 10px;
+    resize: none;
+}
+
+.texto{
+    background-color: white;
+    padding: 10px;
+}
+
+.padre{
+    margin-top: 20px;
+}
+
+.cajaTexto{
+    width: 50%;
+    border: 1px solid black;
+}
